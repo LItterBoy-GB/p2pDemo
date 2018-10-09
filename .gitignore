@@ -1,0 +1,8 @@
+.idea/
+client/META-INF/
+p2pDemo.iml
+client/target/
+common/target/
+server/target/
+server/META-INF/
+out/
